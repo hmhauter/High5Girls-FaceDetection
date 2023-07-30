@@ -9,11 +9,19 @@ This is the code base for a workshop for Face Detection and Face Recognition. <b
 
 ## Installation
 
+
 1.  We will set up the conda environment together. The miniconda environment can be installed here: 
 - Linux: [Installing on Linux — conda 23.1.0 documentation](https://conda.io/projects/conda/en/stable/user-guide/install/linux.html)
 - Windows: [Installing on Windows — conda 23.1.0 documentation](https://conda.io/projects/conda/en/stable/user-guide/install/windows.html)
 - macOS: [Installing on macOS — conda 23.1.0 documentation](https://conda.io/projects/conda/en/stable/user-guide/install/macos.html) <br>
+
+### Windows:
+2. Open the anaconda application.
+3. Go to the "Environments" tab and click Import. Choose the provided `high5girls.yaml` file from this repository.
+4. Switch to the "Home" tab and launch VS Code. Happy Codeing!
+### Linux:
 The environment can be created with `conda create -n high5girls python=3.10`
 2.  Activate the environment via `conda activate high5girls`
 3.  Run `conda install pip`
 4.  Run the command `pip install -r requirements.txt` to install the required Python packages.
+

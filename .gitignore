@@ -1,6 +1,6 @@
 # Custom 
-FaceRecognition/dataset
-FaceRecognition/trainer
+FaceRecognition/dataset/*
+FaceRecognition/trainer/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
