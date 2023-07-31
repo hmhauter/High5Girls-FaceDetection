@@ -17,7 +17,7 @@ This is the code base for a workshop for Face Detection and Face Recognition. <b
 2. Open the anaconda application.
 3. Go to the "Environments" tab and click Import. Choose the provided `high5girls.yaml` file from this repository.
 4. Switch to the "Home" tab and launch VS Code. Happy Coding!
-<br>
+
 ### Linux:
 The environment can be created with `conda create -n high5girls python=3.10`
 2. Activate the environment via `conda activate high5girls`
